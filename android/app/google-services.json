@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "662146034313",
+    "firebase_url": "https://practice-54c2a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "practice-54c2a",
+    "storage_bucket": "practice-54c2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662146034313:android:26c4f8a87d50640b0eb458",
+        "android_client_info": {
+          "package_name": "com.example.videoapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYdtoVAVTIMX5NZJdHCTo5-7Wr_Rc5Vz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
